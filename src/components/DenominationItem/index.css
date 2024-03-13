@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.denomination {
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: 1px solid #d4d2db;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+}
+
+/* width: 100%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+   */
+
+.listItem {
+  list-style-type: none;
+  width: 47%;
+}
